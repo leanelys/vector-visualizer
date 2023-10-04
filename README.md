@@ -1,4 +1,4 @@
-# vector_visualizer
+# vector-visualizer
 
 A Python program made using the turtle module.
 
